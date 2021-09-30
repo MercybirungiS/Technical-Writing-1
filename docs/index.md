@@ -21,6 +21,18 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 External software documentation tools allow you to publish docs for your end-users. Such documentation often takes the form of user manuals, tutorials, API docs, FAQs, and so on
 Examples of software documentation tools include;
 
+
+##HelpNDoc
+HelpNDoc is an easy to use yet powerful authoring tool which is versatile for your various needs, it can generate various documentation formats from a single source.
+HelpNDoc provides all the tools necessary to write complete help files, manuals and documentation in a user friendly and a very easy to use environment.
+
+##ClickHelp
+Need a documentation tool with a variety of features then ClickHelp is the one for you. ClickHelp is a modern browser-based documentation tool which is easy to set up and use, it requires no installation, runs in a web browser and supports multiple platforms: Mac OS, Windows and Linux which makes it easy to author your documentation from any place in the world.
+
+##ProcessStreet
+ProcessStreet is the simplest way to manage recurring workflows for your team. Plus, it helps quickly assign checklist workflows to your team.
+ProcessStreet has a simple interface which helps you create a structured document in seconds. Moreover, you can track activity from the dashboard and it notifies when tasks are done.
+
 ##Whatfix
 Whatfix signifies a paradigm shift in the way help documentation is presented online. Static and lengthy web help pages do not catch the user’s attention as effectively as the interactive, pictorial guides presented by Whatfix, popularly called ‘balloons’. 
 
