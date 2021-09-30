@@ -21,18 +21,35 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 External software documentation tools allow you to publish docs for your end-users. Such documentation often takes the form of user manuals, tutorials, API docs, FAQs, and so on
 Examples of software documentation tools include;
 
-##Huddle
-Huddle’s an all-in-one collaboration hub for your team. It has basically every tool your company might need to stay in sync, including file storage, project management, and collaboration tools. What is important to know here is that this tool is for bigger companies that need a secure place to collaborate as an enterprise. The price is $20 per month per user.
-Read the Docs
-Read the Docs is a free platform for software documentation hosting with freely available source code. It facilitates writing technical documentation by automating building, versioning, and hosting for you.
+##Whatfix
+Whatfix signifies a paradigm shift in the way help documentation is presented online. Static and lengthy web help pages do not catch the user’s attention as effectively as the interactive, pictorial guides presented by Whatfix, popularly called ‘balloons’. 
 
-##Javadoc
-Javadoc is a documentation generator created by Sun Microsystems for the Java language for generating API documentation in HTML format from Java source code.
-Markdown
-Markdown is a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats using a tool by the same name. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+Moreover, online help in today’s world needs to spread across various gadgets – be it PCs, tablets, or smartphones. Whatfix automatically adapts the help content to suit the gadget. And the same help content can be accessed in different forms – as a slideshow, PDF, or video.
 
-##Swagger
-Swagger aids in development across the entire API lifecycle, from design and documentation, to test and deployment.
+##MediaWiki
+MediaWiki is a PHP-based web editing tool, which Wikipedia uses. However, even major software corporations, Intel being a key example, use this tool to present their sales and marketing information, How To’s, and help pages on policy and procedures.
+
+##Adobe RoboHelp
+Industry-standard authoring tool used to create help systems for desktop or web-based applications. No computer user is a stranger to RoboHelp. Every time your press F1 in any of your standard software applications, the help window that appears is almost always created using RoboHelp. However, it can also be used to churn out the conventional technical documentation for print, such as guides and training manuals.
+
+##Notepad++
+A very effective beginner’s HTML editor. Most people learn the basics of HTML programming on this technical writing tool. If your software product does not require very heavy online help documentation, for making help files of medium size, this tool is more than sufficient.
+Its customizable GUI allows for easy editing, it supports WYSIWYG for printing, and also has multi-language support options.
+
+##WordPress
+The go-to place if you want to have a technical documentation for your product in the form of blogs. WordPress is an open-source, free, online content management platform. Blogs written on WordPress can either be accessed directly from the WordPress blog URL or can be integrated into your company website.
+
+##Microsoft Visio
+A popular diagramming tool used in engineering applications design. Technical writers often need to design flowcharts, architectural diagrams, electrical circuit diagrams, software product design, and so on. Visio is a convenient aid for this.
+
+##Windows Snipping Tool
+If you are looking for screen capture options that are more sophisticated than PrntScr on your keyboard, Snipping Tool is a good choice.
+
+Apart from full-screen capture, you can also capture freehand crops, or partial screen area crops. To capture still images from videos, use the delay option so that the exact frame can be saved as an image.
+
+
+
+
  
 Proper software documentation tools are essential at every stage of the working, development process and it doesn’t have to wait for a specific occasion. Technical documentation is simply a habit and a discipline and contrary to what many people think, it does not require great effort. Technical documentation goes in parallel with the development process and there is no need to wait for the entire work to be over.
 
