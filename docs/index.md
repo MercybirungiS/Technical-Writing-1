@@ -65,10 +65,10 @@ Apart from full-screen capture, you can also capture freehand crops, or partial 
  
 Proper software documentation tools are essential at every stage of the working, development process and it doesn’t have to wait for a specific occasion. Technical documentation is simply a habit and a discipline and contrary to what many people think, it does not require great effort. Technical documentation goes in parallel with the development process and there is no need to wait for the entire work to be over.
 
-##MK docs
+#MK docs
 MkDocs is a fast, simple, and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.
 
-##How to install MK docs
+#How to install MK docs
 ##Requirements
 MkDocs requires a recent version of Python and the Python package manager, pip, to be installed on your system.
 You can check if you already have these installed from the command line:
